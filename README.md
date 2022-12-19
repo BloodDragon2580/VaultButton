@@ -2,9 +2,17 @@
 <img src="https://user-images.githubusercontent.com/1429236/208461557-3bd380bd-f8d7-40f7-a98b-27e9b361280f.png" alt="Logo" title="Logo">
 <br>
 <br>
-With this addon, a minimap button is created.<br>
-Clicking on this minimap button opens the Great Treasury.<br>
+With this addon,<br> 
+a minimap button is created.<br>
+Clicking on this minimap button opens the Great Treasury.<br> 
 In it you can see which item level can be looted from the weekly treasury.<br>
+<br>
+<br>
+<br>
+Mit diesem addon, <br>
+wird ein Minimap Button erstellt.<br>
+Dieser Minimap Button öffnet beim drauf klicken die Große Schatzkammer. <br>
+Darin sieht man welche Itemstufe aus der Wöchentlichen Schatzkammer gelootet werden kann.<br>
 <br>
 <br>
 <br>
