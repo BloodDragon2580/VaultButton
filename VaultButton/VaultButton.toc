@@ -1,0 +1,11 @@
+## Interface: 100002
+## Title:|cffd6266cVaultButton|r
+## Notes: Displays an icon on the minimap that opens the great treasury.
+## Author: BloodDragon2580
+## Version: 1.0
+## SavedVariables: VaultButtonDB
+
+
+embeds.xml
+locale\locale.xml
+VaultButton.lua
