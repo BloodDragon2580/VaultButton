@@ -1,3 +1,5 @@
+![Screenshot](![Screenshot](screenshot.png)
+
 With this addon, a minimap button is created.
 
 Clicking on this minimap button opens the Great Treasury. 
