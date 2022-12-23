@@ -2,7 +2,7 @@
 ## Title:|cffd6266cVaultButton|r
 ## Notes: Displays an icon on the minimap that opens the great treasury.
 ## Author: BloodDragon2580
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: VaultButtonDB
 
 
