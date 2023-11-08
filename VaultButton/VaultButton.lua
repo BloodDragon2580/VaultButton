@@ -10,7 +10,7 @@ end
 
 local function openVaultUI()
 	LoadAddOn("Blizzard_WeeklyRewards");
-	WeeklyRewardsFrame:Show();
+	WeeklyRewardsFrame:SetShown(not WeeklyRewardsFrame:IsShown());
 end
 
 local function ToggleMinimapButton()
