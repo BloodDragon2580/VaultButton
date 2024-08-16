@@ -9,7 +9,7 @@ local function printOperation(operation, command, description)
 end
 
 local function openVaultUI()
-	LoadAddOn("Blizzard_WeeklyRewards");
+	C_AddOns.LoadAddOn("Blizzard_WeeklyRewards");
 	WeeklyRewardsFrame:SetShown(not WeeklyRewardsFrame:IsShown());
 end
 
