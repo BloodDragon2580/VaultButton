@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title:|cffd6266cVaultButton|r
 ## Title-ruRU: |cffd6266cКнопка Великого Хранилища|r
 ## Notes: Displays an icon on the minimap that opens the great treasury.
